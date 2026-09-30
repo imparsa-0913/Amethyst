@@ -78,8 +78,8 @@
     <string name="control_primary">LMB</string>
     <string name="control_secondary">RMB</string>
     <string name="control_mouse">ماوس</string>
-    <string name="control_mouseoff">ماوس: خاموش</string>
-    <string name="control_mouseon">ماوس: روشن </string>
+    <string name="control_mouseoff">موس خاموش شد</string>
+    <string name="control_mouseon">موس روشن شد</string>
     <!-- MainActivity: Menu advanced controls -->
     <string name="control_forceclose">توقف اجباری</string>
     <string name="control_viewout">خروجی گزارش (لاگ)</string>
@@ -131,7 +131,7 @@
     <string name="memory_warning_msg">میزان رم آزاد فعلی (%d) از میزان رم اختصاص یافته (%d) کمتر است، که ممکن است باعث کرش شود. رم اختصاص یافته را تغییر دهید اگر بازی کرش خورد.</string>
     <string name="mcl_memory_allocation">میزان رم اختصاص یافته</string>
     <string name="mcl_memory_allocation_subtitle">مقدار حافظه رم داده شده به ماینکرفت را کنترل میکند.</string>
-    <string name="multirt_runtime_corrupt">جاوا ران‌ تایم خراب</string>
+    <string name="multirt_runtime_corrupt">جاوا ران‌ تایم خرابه</string>
     <string name="multirt_runtime_incompatiblearch">معماری ناسازگار: %s</string>
     <string name="multirt_config_title">جاوا ها</string>
     <string name="multirt_config_add">افزودن جدید</string>
@@ -143,7 +143,7 @@
     <string name="multirt_config_removeerror_last">شما باید حداقل یک جاوای نصب شده داشته باشید.</string>
     <string name="multirt_nojava8rt">جاوا 8 را نمی توان پیدا کرد. برای استفاده از این قابلیت باید جاوا 8 را نصب کنید.</string>
     <string name="multirt_delete_runtime">حذف جاوا</string>
-    <string name="pvc_gameDirectory">پوشه بازی</string>
+    <string name="pvc_gameDirectory">پوشه ماینکرافت</string>
     <string name="pvc_jvmArgs">آرگومان‌های JVM</string>
     <string name="preference_mouse_start_title">شروع با موسِ مجازیِ روشن</string>
     <string name="preference_mouse_start_description">اگر این گزینه روشن باشد موس مجازی هنگام شروع بازی ظاهر میشود.</string>
@@ -184,7 +184,7 @@
     <string name="use_global_default">(از پیش‌فرض استفاده کنید)</string>
     <string name="progresslayout_tasks_in_progress">%d وظیفه در حال انجام</string>
     <string name="notification_terminate">خاتمه</string>
-    <string name="notification_game_runs">بازی در حال اجراست!</string>
+    <string name="notification_game_runs">بازی داره باز میشه!</string>
     <string name="folder_dialog_create">ایجاد</string>
     <string name="folder_dialog_insert_name">نام پوشه را بنویسید</string>
     <string name="main_login_done">ورود انجام شد</string>
